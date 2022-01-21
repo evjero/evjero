@@ -9,14 +9,14 @@
 ## Skills
 
 ### Languages
-- TypeScript (^2.x)
-- JavaScript (^ES6)
-- Java (^8)
+- TypeScript (^2.x ~ ^4.x)
+- JavaScript (^ES6 ~ ^ESNext)
+- Java (^8 ~ ^12)
 - HTML (^5)
 - SCSS
 - CSS
 ### Frameworks / Libraries
-- React
+- React (^16 ~ ^18)
 - SingleSPA
 - NodeJS
 - Appwrite
