@@ -37,7 +37,7 @@
 
 ## Contact
 
-📫 Reach me at [evjero.git@gmail.com](evjero.git@gmail.com)
+📫 Reach me at [evjero.git@gmail.com](mailto:evjero.git@gmail.com)
 
 <!---
 evjero/evjero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
