@@ -2,9 +2,13 @@
 
 👋 Hi, I’m Evan!
 
-👀 I’m interested in [TypeScript](typescriptlang.org/), [React](https://reactjs.org/), and Frontend Software Engineering / Architecture in general
+👀 I am interested in [TypeScript](typescriptlang.org/), [React](https://reactjs.org/), and Frontend Software Engineering / Architecture in general.
 
-🌱 I’m currently learning real-time data streaming and visualizations with [plotly/plotly.js](https://github.com/plotly/plotly.js) and [mrdoob/three.js](https://github.com/mrdoob/three.js/)
+🏅 Software Engineer with 10 years of experience
+
+🌱 Currently learning:
+- Real-time data streaming and visualizations with [plotly/plotly.js](https://github.com/plotly/plotly.js) and [mrdoob/three.js](https://github.com/mrdoob/three.js/)
+- Node.js and Express with MongoDB
 
 ## Skills
 
@@ -13,8 +17,7 @@
 - JavaScript (^ES6 ~ ^ESNext)
 - Java (^8 ~ ^12)
 - HTML (^5)
-- SCSS
-- CSS
+- (S)CSS
 ### Frameworks / Libraries
 - React (^16 ~ ^18)
 - Redux (+RTK)
@@ -27,9 +30,10 @@
 ### Databases
 - PostgreSQL
 - Supabase
-### Stacks
+- MongoDB
+### Deployments
 - Docker
-### Apps
+### IDEs / Apps
 - VSCode
 - Figma
 ### Systems
