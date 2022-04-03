@@ -17,6 +17,7 @@
 - CSS
 ### Frameworks / Libraries
 - React (^16 ~ ^18)
+- Redux (+RTK)
 - SingleSPA
 - NodeJS
 - Appwrite
