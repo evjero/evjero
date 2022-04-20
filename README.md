@@ -4,11 +4,10 @@
 
 👀 I am interested in [TypeScript](typescriptlang.org/), [React](https://reactjs.org/), and Frontend Software Engineering / Architecture in general.
 
-🏅 Software Engineer with 10 years of experience
+🏅 Senior Software Engineer with 10 years of experience
 
 🌱 Currently learning:
 - Real-time data streaming and visualizations with [plotly/plotly.js](https://github.com/plotly/plotly.js) and [mrdoob/three.js](https://github.com/mrdoob/three.js/)
-- Node.js and Express with MongoDB
 
 ## Skills
 
