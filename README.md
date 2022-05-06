@@ -8,6 +8,7 @@
 
 🌱 Currently learning:
 - Real-time data streaming and visualizations with [plotly/plotly.js](https://github.com/plotly/plotly.js) and [mrdoob/three.js](https://github.com/mrdoob/three.js/)
+- Remix static websites
 
 ## Skills
 
@@ -19,13 +20,14 @@
 - (S)CSS
 ### Frameworks / Libraries
 - React (^16 ~ ^18)
-- Redux (+RTK)
+- Redux (+ RTK)
 - SingleSPA
+- Remix
 - NodeJS
 - Appwrite
 - Plotly
 - Spring
-- Git(hub|lab)
+- Git
 ### Databases
 - PostgreSQL
 - Supabase
