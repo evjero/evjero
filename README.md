@@ -24,15 +24,14 @@
 - SingleSPA
 - Remix
 - NodeJS
+- Webpack / Vite
 - Appwrite
 - Plotly
-- Spring
-- Git
 ### Databases
 - PostgreSQL
-- Supabase
 - MongoDB
 ### Deployments
+- Vercel
 - Docker
 ### IDEs / Apps
 - VSCode
