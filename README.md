@@ -7,8 +7,9 @@
 🏅 Senior Software Engineer with 10 years of experience
 
 🌱 Currently learning:
-- Real-time data streaming and visualizations with [plotly/plotly.js](https://github.com/plotly/plotly.js) and [mrdoob/three.js](https://github.com/mrdoob/three.js/)
 - Remix static websites
+- Portal-based module federation via Webpack 5
+- Real-time data streaming and visualizations with [plotly/plotly.js](https://github.com/plotly/plotly.js) and [mrdoob/three.js](https://github.com/mrdoob/three.js/)
 
 ## Skills
 
@@ -17,7 +18,7 @@
 - JavaScript (^ES6 ~ ^ESNext)
 - Java (^8 ~ ^12)
 - HTML (^5)
-- (S)CSS
+- SCSS
 ### Frameworks / Libraries
 - React (^16 ~ ^18)
 - Redux (+ RTK)
@@ -32,6 +33,7 @@
 - MongoDB
 ### Deployments
 - Vercel
+- Fly.io
 - Docker
 ### IDEs / Apps
 - VSCode
