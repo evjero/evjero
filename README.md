@@ -2,9 +2,9 @@
 
 👋 Hi, I’m Evan!
 
-👀 I am interested in [TypeScript](typescriptlang.org/), [React](https://reactjs.org/), and Frontend Software Engineering / Architecture in general.
+👀 I am interested in [TypeScript](typescriptlang.org/), [React](https://reactjs.org/), and Front-end Software Engineering / Architecture in general.
 
-🏅 Senior Software Engineer with 10 years of experience
+🏅 Senior Front-end Software Engineer with 10 years of experience
 
 🌱 Currently learning:
 - Remix static websites
