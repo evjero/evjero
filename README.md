@@ -6,11 +6,6 @@
 
 🏅 Senior Front-end Software Engineer with 10 years of experience
 
-🌱 Currently learning:
-- Remix static websites
-- Portal-based module federation via Webpack 5
-- Real-time data streaming and visualizations with [plotly/plotly.js](https://github.com/plotly/plotly.js) and [mrdoob/three.js](https://github.com/mrdoob/three.js/)
-
 ## Skills
 
 ### Languages
@@ -32,9 +27,9 @@
 - PostgreSQL
 - MongoDB
 ### Deployments
+- Docker
 - Vercel
 - Fly.io
-- Docker
 ### IDEs / Apps
 - VSCode
 - Figma
