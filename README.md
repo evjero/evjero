@@ -4,7 +4,7 @@
 
 👀 I am interested in [TypeScript](typescriptlang.org/), [React](https://reactjs.org/), and Front-end Software Engineering / Architecture in general.
 
-🏅 Senior Front-end Software Engineer with 10 years of experience
+🏅 Senior Front-end Software Engineer with over 10 years of experience
 
 ## Skills
 
@@ -23,10 +23,16 @@
 - Webpack / Vite
 - Appwrite
 - Plotly
+- Jest
+- RTL
+- Playwright
+- Cypress
 ### Databases
 - PostgreSQL
 - MongoDB
 ### Deployments
+- Kubernetes
+- Helm
 - Docker
 - Vercel
 - Fly.io
@@ -36,6 +42,7 @@
 ### Systems
 - Windows 10
 - Linux CentOS ^7
+- Linux Rocky 8
 
 ## Contact
 
