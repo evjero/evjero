@@ -11,12 +11,12 @@
 ### Languages
 - TypeScript
 - JavaScript
-- Java
-- C#
 - HTML
 - SCSS/CSS
+- Java
+- C#
 ### Frameworks / Libraries
-- React (^16 ~ ^18)
+- React (^16 ~ ^19)
 - Redux (+ RTK)
 - SingleSPA
 - Remix
@@ -29,9 +29,11 @@
 - Playwright
 - Cypress
 ### Databases
+- Firestore
 - PostgreSQL
 - MongoDB
 ### Deployments
+- Firebase
 - Kubernetes
 - Rancher
 - Helm
@@ -42,8 +44,8 @@
 - VSCode
 - Figma
 ### Systems
-- Windows 10
-- Linux Rocky 8
+- Windows 10/11
+- Linux Rocky 8/9, WSL
 - Linux CentOS ^7
 
 <!---
