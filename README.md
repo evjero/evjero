@@ -4,7 +4,7 @@
 
 👀 I am interested in [TypeScript](typescriptlang.org/), [React](https://reactjs.org/), and Front-end Software Engineering / Architecture in general.
 
-🏅 Senior Front-end Software Engineer with over 10 years of professional experience designing and implementing front-end tech stacks
+🏅 Software Engineer with over 10 years of professional experience designing and implementing front-end tech stacks
 
 ## Skills
 
