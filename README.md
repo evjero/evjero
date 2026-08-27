@@ -2,7 +2,7 @@
 
 👋 Hi, I’m Evan!
 
-👀 I am interested in [TypeScript](typescriptlang.org/), [React](https://reactjs.org/), and Front-end Software Engineering / Architecture in general.
+👀 I am interested in [TypeScript](typescriptlang.org/), [React](https://reactjs.org/), and Front-end Software Engineering / Architecture in general professionally. Also interested in Godot game design.
 
 🏅 Software Engineer with over 10 years of professional experience designing and implementing front-end tech stacks
 
